@@ -1,0 +1,28 @@
+
+
+
+#outer {
+margin: 150px;
+height: 350px;
+width: 125px;
+border: 25px solid black;
+box-shadow: 10px;
+
+}
+
+.circle{
+    height: 75px;
+    width: 75px;
+    border: 10px solid black;
+    border-radius: 50%;
+    margin: 10px;
+}
+#colo{
+    background-color: red;
+}
+#rew{
+background-color: yellow;
+}
+#ree{
+    background-color: green;
+}
