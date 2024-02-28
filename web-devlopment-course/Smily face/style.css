@@ -1,0 +1,46 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: brown;
+   
+}
+
+div:hover{
+
+.face{
+    height: 400px;
+    width: 400px;
+   background-color: gold;
+   border-radius: 50%;
+   transition: 1s;
+   border: 1px solid black;
+}
+.mouth {
+    height: 75px;
+    width: 200px;
+    background-color: red;
+    border-radius:0 0 50% 50%;
+    position: absolute;
+    top: 250px;
+    left: 105px;
+    margin:  auto;
+}
+.lefteye{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.righteye{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 100px;
+    left: 280px;
+}
+}
